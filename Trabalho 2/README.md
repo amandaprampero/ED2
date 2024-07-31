@@ -1,4 +1,6 @@
-# COLEÇÃO DE FILMES (LOCADORA)
+# Catálogo de filmes
+
+O objetivo deste projeto é aprimorar o anterior por meio da implementação de uma árvore B+ para inserir filmes no catálogo. Apenas complemento do código anterior, porém agora os índices são organizados em uma Árvore B+.
 
 ## Sobre o código:
 
